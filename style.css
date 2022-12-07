@@ -1,0 +1,179 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.background-image1{
+    background-image: url("assets/Homepage_Desktop.webp");
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+.header{
+    display: flex;
+}
+ul.ul{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    display: flex;
+    list-style-type: none;
+    position: absolute;
+    padding-left: 14em;
+    color: aliceblue;
+}
+.ul li{
+    padding-left: 3em;
+}
+
+.background-image2{
+    background-image: url("assets/Homepage_Desktopss.webp");
+    background-position: center;
+    background-size: cover;
+    width: 100;
+    height: 100vh;
+    padding-top: 1px;
+}
+.background-image3{
+    background-image: url("assets/hls-resized-2.webp");
+    background-position: center;
+    background-size: cover;
+    width: 100;
+    height: 100vh;
+}
+
+.background-image4{
+    background-image: url("assets/S20_Chopstick_Stack_Desktop.webp");
+    background-position: center;
+    background-size: cover;
+    width: 100;
+    height: 100vh;
+}
+
+.footer{
+    width: 100;
+    height: 20vh;
+    background-color: black;
+}
+
+#par{
+    color: aliceblue;
+    padding-top: 400px;
+    padding-left: 50px;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#button{
+    background-color: transparent;
+    border: solid;
+    border-color: white;
+    color: white;
+    width: 150px;
+    height: 50px;
+    cursor: pointer;
+}
+
+
+#button:hover{
+    background-color: white;
+    color: black;
+}
+.par2{
+    padding-top: 450px;
+    padding-left: 50px;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    
+}
+.par3{
+    padding-left: 50px;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+
+}
+.b{
+    background-color: transparent;
+    border: solid;
+    border-color: white;
+    color: white;
+    width: 150px;
+    height: 50px;
+    cursor: pointer;
+    margin-left: 50px;
+}
+.b:hover{
+    background-color: white;
+    color: black;
+}
+.ais{
+    color: white;
+    padding-top: 250px;
+    padding-left: 50px;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.c{
+    background-color: transparent;
+    border: solid;
+    border-color: white;
+    color: white;
+    width: 150px;
+    height: 50px;
+    cursor: pointer;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.c:hover{
+    background-color: white;
+    color: black;
+}
+
+.ais2{
+    color: white;
+    padding-top: 450px;
+    padding-left: 50px;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.d{
+    background-color: transparent;
+    border: solid;
+    border-color: white;
+    color: white;
+    width: 150px;
+    height: 50px;
+    cursor: pointer;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.d:hover{
+    background-color: white;
+    color: black;
+}
+.e{
+    font-size: small;
+    color: white;
+    padding-top: 65px;
+    padding-left: 400px;
+    
+}
+.q li{
+    color: aliceblue;
+    padding-top: 48px;
+    font-size: small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
